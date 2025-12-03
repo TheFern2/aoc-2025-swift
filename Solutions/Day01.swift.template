@@ -1,0 +1,15 @@
+import Foundation
+import AOCCore
+
+public struct Day01: Solution {
+    public init() {}
+    
+    public func part1(_ input: String) -> String {
+        return "Not implemented"
+    }
+    
+    public func part2(_ input: String) -> String {
+        return "Not implemented"
+    }
+}
+
