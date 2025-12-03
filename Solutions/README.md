@@ -22,13 +22,15 @@ import AOCCore
 public struct Day01: Solution {
     public init() {}
     
-    public func part1(_ input: String) -> String {
-        let lines = input.split(separator: "\n")
-        // Your solution logic here
+    public func part1(_ input: [String]) -> String {
+        // input is already an array of lines
+        for line in input {
+            // Process each line
+        }
         return "42"
     }
     
-    public func part2(_ input: String) -> String {
+    public func part2(_ input: [String]) -> String {
         // Your solution logic here
         return "84"
     }

@@ -58,12 +58,13 @@ make run DAY=1
    public struct Day01: Solution {
        public init() {}
        
-       public func part1(_ input: String) -> String {
+       public func part1(_ input: [String]) -> String {
            // Your solution for part 1
+           // input is an array of lines from your input file
            return "result"
        }
        
-       public func part2(_ input: String) -> String {
+       public func part2(_ input: [String]) -> String {
            // Your solution for part 2
            return "result"
        }
